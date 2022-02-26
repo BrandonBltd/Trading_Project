@@ -1,0 +1,88 @@
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp.csproj.AssemblyReference.cache
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\Views\Graphics.g.cs
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\Views\UserCryptoList.g.cs
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\Views\UserPortfolio.g.cs
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\App.g.cs
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp_MarkupCompile.cache
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp_MarkupCompile.lref
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp_Content.g.cs
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\TradingApp.exe.config
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\TradingApp.exe
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\TradingApp.pdb
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\Views\MainWindow.g.cs
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\Views\Graphics.baml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\Views\MainWindow.baml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\Views\UserCryptoList.baml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\Views\UserPortfolio.baml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp.g.resources
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp.Properties.Resources.resources
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp.csproj.GenerateResource.cache
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp.csproj.CoreCompileInputs.cache
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp.exe
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp.pdb
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\TradingApp.csproj.CopyComplete
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\SciChart.Charting.dll
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\SciChart.Core.dll
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\SciChart.Data.dll
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\SciChart.Drawing.dll
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\SciChart.Charting.xml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\SciChart.Core.xml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\SciChart.Data.xml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\SciChart.Drawing.xml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\Views\charting.g.cs
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\obj\Debug\Views\charting.baml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\ScottPlot.dll
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\ScottPlot.WPF.dll
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\System.Drawing.Common.dll
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\System.ValueTuple.dll
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\ScottPlot.xml
+C:\Users\brand\RiderProjects\TradingApp\TradingApp\bin\Debug\System.ValueTuple.xml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp.csprojAssemblyReference.cache
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\MainWindow.baml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\charting.g.cs
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\MainWindow.g.cs
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\UserCryptoList.g.cs
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\UserPortfolio.g.cs
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\App.g.cs
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp_Content.g.cs
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp_MarkupCompile.cache
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp_MarkupCompile.lref
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp.exe
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp.pdb
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\TradingApp.exe.config
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\TradingApp.exe
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\TradingApp.pdb
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\SciChart.Charting.dll
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\SciChart.Core.dll
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\SciChart.Data.dll
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\SciChart.Drawing.dll
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\ScottPlot.dll
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\ScottPlot.WPF.dll
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\System.Drawing.Common.dll
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\System.ValueTuple.dll
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\SciChart.Charting.xml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\SciChart.Core.xml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\SciChart.Data.xml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\SciChart.Drawing.xml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\ScottPlot.xml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\bin\Debug\System.ValueTuple.xml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\Graphics.g.cs
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\charting.baml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\Graphics.baml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\UserCryptoList.baml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\UserPortfolio.baml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp.g.resources
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp.Properties.Resources.resources
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp.csproj.GenerateResource.cache
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp.csproj.CoreCompileInputs.cache
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\TradingApp.csproj.CopyComplete
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\UserNews.g.cs
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\UserNews.baml
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\UserCryptoPrice.g.cs
+C:\Users\antoi\OneDrive\Documents\Trading project\TradingApp-master\TradingApp\obj\Debug\Views\UserCryptoPrice.baml

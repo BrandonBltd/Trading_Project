@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{06E65BB0-9B55-4888-BC9B-D8CB1C72F082}</ProjectGuid>
+        <OutputType>WinExe</OutputType>
+        <RootNamespace>TradingApp</RootNamespace>
+        <AssemblyName>TradingApp</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+        <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+        <WarningLevel>4</WarningLevel>
+        <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="mscorlib" />
+        <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+          <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="SciChart.Charting, Version=6.5.1.26063, Culture=neutral, PublicKeyToken=b55dd9efe817e823">
+          <HintPath>..\..\..\..\..\Program Files (x86)\SciChart\SciChart SDK\Lib\net452\SciChart.Charting.dll</HintPath>
+        </Reference>
+        <Reference Include="SciChart.Core, Version=6.5.1.26063, Culture=neutral, PublicKeyToken=b55dd9efe817e823">
+          <HintPath>..\..\..\..\..\Program Files (x86)\SciChart\SciChart SDK\Lib\net452\SciChart.Core.dll</HintPath>
+        </Reference>
+        <Reference Include="SciChart.Data, Version=6.5.1.26063, Culture=neutral, PublicKeyToken=b55dd9efe817e823">
+          <HintPath>..\..\..\..\..\Program Files (x86)\SciChart\SciChart SDK\Lib\net452\SciChart.Data.dll</HintPath>
+        </Reference>
+        <Reference Include="SciChart.Drawing, Version=6.5.1.26063, Culture=neutral, PublicKeyToken=b55dd9efe817e823">
+          <HintPath>..\..\..\..\..\Program Files (x86)\SciChart\SciChart SDK\Lib\net452\SciChart.Drawing.dll</HintPath>
+        </Reference>
+        <Reference Include="ScottPlot, Version=4.1.33.0, Culture=neutral, PublicKeyToken=86698dc10387c39e">
+          <HintPath>..\packages\ScottPlot.4.1.33\lib\net461\ScottPlot.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="ScottPlot.WPF, Version=4.1.33.0, Culture=neutral, PublicKeyToken=e53b06131e34a3aa">
+          <HintPath>..\packages\ScottPlot.WPF.4.1.33\lib\net48\ScottPlot.WPF.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System" />
+        <Reference Include="System.Core" />
+        <Reference Include="System.Data" />
+        <Reference Include="System.Drawing" />
+        <Reference Include="System.Drawing.Common, Version=4.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+          <HintPath>..\packages\System.Drawing.Common.4.6.1\lib\net461\System.Drawing.Common.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+          <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+          <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+          <Private>True</Private>
+        </Reference>
+        <Reference Include="System.Xml" />
+        <Reference Include="System.Xaml">
+            <RequiredTargetFramework>4.0</RequiredTargetFramework>
+        </Reference>
+        <Reference Include="WindowsBase" />
+        <Reference Include="PresentationCore" />
+        <Reference Include="PresentationFramework" />
+    </ItemGroup>
+    <ItemGroup>
+        <ApplicationDefinition Include="App.xaml">
+            <Generator>MSBuild:Compile</Generator>
+            <SubType>Designer</SubType>
+        </ApplicationDefinition>
+        <Compile Include="App.xaml.cs">
+            <DependentUpon>App.xaml</DependentUpon>
+            <SubType>Code</SubType>
+        </Compile>
+        <Compile Include="Models\CryptoInfo.cs" />
+        <Compile Include="Models\DataGraph.cs" />
+        <Compile Include="Models\NewsOnCrypto.cs" />
+        <Compile Include="Models\Scrapping.cs" />
+        <Compile Include="Properties\Annotations.cs" />
+        <Compile Include="ViewModels\BaseViewModels.cs" />
+        <Compile Include="ViewModels\CryptoInfoViewModel.cs" />
+        <Compile Include="ViewModels\GraphicsViewModel.cs" />
+        <Compile Include="ViewModels\HomePageVieModel.cs" />
+        <Compile Include="ViewModels\NewsCryptoViewModel.cs" />
+        <Compile Include="ViewModels\UserCryptoListViewModel.cs" />
+        <Compile Include="ViewModels\UserPortfolioViewModel.cs" />
+        <Compile Include="Views\charting.xaml.cs">
+          <DependentUpon>charting.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Views\Graphics.xaml.cs">
+          <DependentUpon>Graphics.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Views\MainWindow.xaml.cs">
+          <DependentUpon>MainWindow.xaml</DependentUpon>
+          <SubType>Code</SubType>
+        </Compile>
+        <Compile Include="Views\UserCryptoList.xaml.cs">
+          <DependentUpon>UserCryptoList.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Views\UserCryptoPrice.xaml.cs">
+          <DependentUpon>UserCryptoPrice.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Views\UserNews.xaml.cs">
+          <DependentUpon>UserNews.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="Views\UserPortfolio.xaml.cs">
+          <DependentUpon>UserPortfolio.xaml</DependentUpon>
+        </Compile>
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="Properties\AssemblyInfo.cs">
+            <SubType>Code</SubType>
+        </Compile>
+        <Compile Include="Properties\Resources.Designer.cs">
+            <AutoGen>True</AutoGen>
+            <DesignTime>True</DesignTime>
+            <DependentUpon>Resources.resx</DependentUpon>
+        </Compile>
+        <EmbeddedResource Include="Properties\Resources.resx">
+            <Generator>ResXFileCodeGenerator</Generator>
+            <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+    </ItemGroup>
+    <ItemGroup>
+        <None Include="App.config" />
+        <None Include="packages.config" />
+    </ItemGroup>
+    <ItemGroup>
+      <Page Include="Views\charting.xaml" />
+      <Page Include="Views\Graphics.xaml" />
+      <Page Include="Views\MainWindow.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <SubType>Designer</SubType>
+      </Page>
+      <Page Include="Views\UserCryptoList.xaml" />
+      <Page Include="Views\UserCryptoPrice.xaml" />
+      <Page Include="Views\UserNews.xaml" />
+      <Page Include="Views\UserPortfolio.xaml" />
+    </ItemGroup>
+    <ItemGroup>
+      <Content Include="Views\bitcoin-gold.jpeg" />
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
